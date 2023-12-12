@@ -1,0 +1,3 @@
+Distancia total: 800.29 unidades
+Área del polígono: 647.32 unidades cuadradas
+Desnivel total: 32.17 unidades
