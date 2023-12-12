@@ -1,9 +1,14 @@
 # PROYECTO_TUNEADO
 FACULTAD DE INGIENERIA CIVIL
+
 ING TOPOGRAFO GEOMATICO
+
 Grado y Grupo 3-B
+
 Programa informático para obtener áreas , distancias y el desnivel con la mínima precisión de las operaciones dentro de la topografía .
+
 Autor:Avalos Lucas Alexis Guillermo
+
 Asesor:Sebastián Gonzales Zepeda
 
 RESUMEN 
